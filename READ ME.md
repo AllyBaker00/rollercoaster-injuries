@@ -1,5 +1,3 @@
-READ ME
-
 Amusement Ride Injuries - WIP    
 
 After finding myself in a wikipedia hole researching amusement ride injuries, I found a dataset on kaggle to do deep exploratory analysis dive. 
